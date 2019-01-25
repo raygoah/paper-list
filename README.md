@@ -1,3 +1,52 @@
 # paper-list
 
-# link:
+## Embedding and Metric Learning Approaches:
+1. Siamese neural networks for one-shot image recognition 
+    * G. Koch, R. Zemel, and R. Salakhutdinov. In ICML Workshop, 2015.
+    * Input: 2 (paired input) Output: 1 (same or different)
+
+2. Learning to Compare: Relation Network for Few-Shot Learning
+    * F. Sung, Y. Yang, L. Zhang, T. Xiang, P. H.S. Torr and T.M. Hospedales. In CVPR, 2018.
+    * A RN is able to classify images of new classes by computing relation scores between query images and few examples of each new class without further updating the network.
+
+3. Prototypical Networks for Few-shot Learning
+    * J. Snell, K. Swersky, and R. S. Zemel. In NIPS, 2017.
+    * Learn a metric space in which classification can be performed by computing distances to prototype representations of each class.
+
+4. Meta-Learning for Semi-Supervised Few-Shot Classification
+    * Improvement of Prototypical Network (consider unlabeled examples).
+
+## Gradient Base Optimization (Easy to Fine-Tune):
+1. Optimization as a model for few-shot learning
+    * S. Ravi and H. Larochelle. In ICLR, 2017.
+    * Use LSTM to learn approximate parameter updates specifically for the scenario, and also learn a general initialization of the learner.
+
+2. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks (MAML)
+    * C. Finn, P. Abbeel, and S. Levine. In ICML, 2017.
+    * The parameters of the model are explicitly trained such that a small number of gradient steps with a small amount of training data from a new task will produce good generalization performance on this task.
+
+3. Meta-sgd: Learning to learn quickly for few shot learning
+    * Z. Li, F. Zhou, F. Chen and H. Li. arXiv preprint arXiv:1707.09835, 2017.
+
+4. Recasting Gradient-Based Meta-Learning as Hierarchical Bayes
+    * E. Grant, C. Finn, S. Levine, T. Darrell, T. Griffiths. In ICLR, 2018.
+    * 
+## Memory Based:
+1. Meta-Learning with Memory-Augmented Neural Networks (MANN)
+    * A. Santoro, S. Bartunov, M. Botvinick, D. Wierstra, and T. Lillicrap. In ICML, 2016.
+
+2. Meta Networks
+    * T. Munkhdalai and H. Yu. arXiv preprint arXiv:1703.00837, 2017.
+    * Continuous learning or incrementally learning new concepts on the fly.MetaNet consists of a base learner, a meta learner and is equipped with an external memory(MANN).
+    * Use gradient for meta information.
+
+## Mixture:
+1. Learning to Learn with Conditional Class Dependencies
+    * X. Jiang, M. Havaei, F. Varno, G. Chartrand, N. Chapados, S. Matwin. Submitted to ICLR,2019.
+    * Make use of structured information (metric space information) from the label space at Conditional Batch Normalization to help representation learning. 
+    * Use MAML for meta train.
+
+2. Meta-Learning with Latent Embedding Optimization
+    * A. A. Rusu, D. Rao, J. Sygnowski, O. Vinyals, R. Pascanu, S. Osindero, R. Hadsell. Submitted to ICLR, 2019.
+    * Learn a data-dependent latent generative representation of model parameters, and performing gradient-based meta-learning in this low-dimensional latent space.
+    * Use encoder and decoder.
