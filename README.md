@@ -30,7 +30,7 @@
 
 4. Recasting Gradient-Based Meta-Learning as Hierarchical Bayes
     * E. Grant, C. Finn, S. Levine, T. Darrell, T. Griffiths. In ICLR, 2018.
-    * 
+    
 ## Memory Based:
 1. Meta-Learning with Memory-Augmented Neural Networks (MANN)
     * A. Santoro, S. Bartunov, M. Botvinick, D. Wierstra, and T. Lillicrap. In ICML, 2016.
