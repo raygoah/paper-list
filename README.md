@@ -53,7 +53,7 @@
 
 ## Incremental Learning:
 1. Incremental Learning of Object Detectors without Catastrophic Forgetting [[pdf]](https://arxiv.org/pdf/1708.06977.pdf)
-    * K. Shmelkov, C. Schmid, K. Alahari. ICCV, 2017.
+    - K. Shmelkov, C. Schmid, K. Alahari. ICCV, 2017.
     
 2. Dynamic Few-Shot Visual Learning without Forgetting [[pdf]](https://arxiv.org/pdf/1804.09458.pdf)
-    * S. Gidaris, N. Komodakis. CVPR, 2018.
+    - S. Gidaris, N. Komodakis. CVPR, 2018.
