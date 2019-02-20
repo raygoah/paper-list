@@ -50,3 +50,7 @@
     * A. A. Rusu, D. Rao, J. Sygnowski, O. Vinyals, R. Pascanu, S. Osindero, R. Hadsell. Submitted to ICLR, 2019.
     * Learn a data-dependent latent generative representation of model parameters, and performing gradient-based meta-learning in this low-dimensional latent space.
     * Use encoder and decoder.
+
+## Incremental Learning:
+1. Incremental Learning of Object Detectors without Catastrophic Forgetting[[pdf]](https://arxiv.org/pdf/1708.06977.pdf)
+    * K. Shmelkov, C. Schmid,K. Alahari. ICCV, 2019
