@@ -54,6 +54,13 @@
 ## Incremental Learning:
 1. Incremental Learning of Object Detectors without Catastrophic Forgetting [[pdf]](https://arxiv.org/pdf/1708.06977.pdf)
     - K. Shmelkov, C. Schmid, K. Alahari. ICCV, 2017.
-    
-2. Dynamic Few-Shot Visual Learning without Forgetting [[pdf]](https://arxiv.org/pdf/1804.09458.pdf)
+
+2. iCaRL: Incremental Classifier and Representation Learning. [[pdf]](https://arxiv.org/pdf/1611.07725.pdf)
+    - S.A. Rebuffi, A. Kolesnikov, G. Sperl, C. H. Lampert. CVPR, 2017.
+
+3. Dynamic Few-Shot Visual Learning without Forgetting [[pdf]](https://arxiv.org/pdf/1804.09458.pdf)
     - S. Gidaris, N. Komodakis. CVPR, 2018.
+    
+4. Gradient Episodic Memory for Continual Learning. [[pdf]](https://arxiv.org/pdf/1706.08840.pdf)
+    - D. Lopez-Paz and M. Ranzato. NIPS, 2017.
+
