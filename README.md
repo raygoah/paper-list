@@ -64,3 +64,5 @@
 4. Gradient Episodic Memory for Continual Learning. [[pdf]](https://arxiv.org/pdf/1706.08840.pdf)
     - D. Lopez-Paz and M. Ranzato. NIPS, 2017.
 
+5. Continual lifelong learning with neural networks : A review. [[pdf]](https://arxiv.org/pdf/1802.07569.pdf)
+    - G. I. Parisi, R. Kemker, J. L. Part , C. Kanan, S. Wermter. Neural Network, 2019.
