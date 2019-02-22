@@ -68,4 +68,4 @@
     - G. I. Parisi, R. Kemker, J. L. Part , C. Kanan, S. Wermter. Neural Network, 2019.
 ## Spectural Clustering
 1. Spectral Graph Reduction for Efficient Image and Streaming Video Segmentation [[pdf]](https://fgalasso.bitbucket.io/Files/Equivalence/Spectral_equiv_cvpr14.pdf)
-   - Fabio Galasso1, Margret Keuper2, Thomas Brox2, Bernt Schiele
+   - Fabio Galasso, Margret Keuper, Thomas Brox, Bernt Schiele
