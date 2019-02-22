@@ -66,3 +66,6 @@
 
 5. Continual lifelong learning with neural networks : A review. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0893608019300231)
     - G. I. Parisi, R. Kemker, J. L. Part , C. Kanan, S. Wermter. Neural Network, 2019.
+## Spectural Clustering
+1. Spectral Graph Reduction for Efficient Image and Streaming Video Segmentation [[pdf]](https://fgalasso.bitbucket.io/Files/Equivalence/Spectral_equiv_cvpr14.pdf)
+   - Fabio Galasso1, Margret Keuper2, Thomas Brox2, Bernt Schiele
