@@ -69,3 +69,5 @@
 ## Spectral Clustering
 1. Spectral Graph Reduction for Efficient Image and Streaming Video Segmentation [[pdf]](https://fgalasso.bitbucket.io/Files/Equivalence/Spectral_equiv_cvpr14.pdf)
    - Fabio Galasso, Margret Keuper, Thomas Brox, Bernt Schiele
+ 2. Deep Spectral Clustering Learning [[pdf]] (https://www.cs.toronto.edu/~urtasun/publications/law_etal_icml17.pdf)
+   - Marc T. Law 1 Raque, Urtasun, Richard S. Zemel. ICML, 2017.
