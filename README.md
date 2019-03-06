@@ -68,8 +68,13 @@
     - G. I. Parisi, R. Kemker, J. L. Part , C. Kanan, S. Wermter. Neural Network, 2019.
 6. End-to-End Incremental Learning. [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Francisco_M._Castro_End-to-End_Incremental_Learning_ECCV_2018_paper.pdf)
      - Francisco M. Castro, Manuel J. Mar´ın-Jimenez, Nicolas Guil, Cordelia Schmid3, and Karteek Alahari3
+
 ## Spectral Clustering
 1. Spectral Graph Reduction for Efficient Image and Streaming Video Segmentation [[pdf]](https://fgalasso.bitbucket.io/Files/Equivalence/Spectral_equiv_cvpr14.pdf)
    - Fabio Galasso, Margret Keuper, Thomas Brox, Bernt Schiele. IEEE, 2014.
  2. Deep Spectral Clustering Learning [[pdf]](https://www.cs.toronto.edu/~urtasun/publications/law_etal_icml17.pdf)
    - Marc T. Law 1 Raque, Urtasun, Richard S. Zemel. ICML, 2017.
+   
+## Information Distillation   
+1. Learning without Forgetting [[pdf]](https://arxiv.org/pdf/1606.09282.pdf)
+   - Zhizhong Li, Derek Hoiem, Member, IEEE
