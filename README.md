@@ -78,3 +78,5 @@
 ## Information Distillation   
 1. Learning without Forgetting [[pdf]](https://arxiv.org/pdf/1606.09282.pdf)
    - Zhizhong Li, Derek Hoiem, Member, IEEE
+2. Distilling the Knowledge in a Neural Network [[pdf]](https://arxiv.org/pdf/1503.02531.pdf)
+   - Hinton, G., Vinyals, O., Dean, J. In: NIPS workshop (2014)
