@@ -72,11 +72,11 @@
 ## Spectral Clustering
 1. Spectral Graph Reduction for Efficient Image and Streaming Video Segmentation [[pdf]](https://fgalasso.bitbucket.io/Files/Equivalence/Spectral_equiv_cvpr14.pdf)
    - Fabio Galasso, Margret Keuper, Thomas Brox, Bernt Schiele. IEEE, 2014.
- 2. Deep Spectral Clustering Learning [[pdf]](https://www.cs.toronto.edu/~urtasun/publications/law_etal_icml17.pdf)
+2. Deep Spectral Clustering Learning [[pdf]](https://www.cs.toronto.edu/~urtasun/publications/law_etal_icml17.pdf)
    - Marc T. Law 1 Raque, Urtasun, Richard S. Zemel. ICML, 2017.
    
 ## Information Distillation   
 1. Learning without Forgetting [[pdf]](https://arxiv.org/pdf/1606.09282.pdf)
    - Zhizhong Li, Derek Hoiem, Member, IEEE
 2. Distilling the Knowledge in a Neural Network [[pdf]](https://arxiv.org/pdf/1503.02531.pdf)
-   - Hinton, G., Vinyals, O., Dean, J. In: NIPS workshop (2014)
+   - Hinton, G., Vinyals, O., Dean, J. In: NIPS workshop, 2014.
