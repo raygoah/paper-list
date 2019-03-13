@@ -74,6 +74,8 @@
    - Fabio Galasso, Margret Keuper, Thomas Brox, Bernt Schiele. IEEE, 2014.
 2. Deep Spectral Clustering Learning [[pdf]](https://www.cs.toronto.edu/~urtasun/publications/law_etal_icml17.pdf)
    - Marc T. Law 1 Raque, Urtasun, Richard S. Zemel. ICML, 2017.
+3. SpectralNet: Spectral Clustering using Deep Neural Networks[[pdf]](https://openreview.net/pdf?id=HJ_aoCyRZ)
+   - Uri Shaham, Kelly Stanton, Henry Li, Ronen Basri, Boaz Nadler, Yuval Kluger. ICRL, 2018.
    
 ## Information Distillation   
 1. Learning without Forgetting [[pdf]](https://arxiv.org/pdf/1606.09282.pdf)
