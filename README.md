@@ -66,7 +66,8 @@
 
 5. Continual lifelong learning with neural networks : A review. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0893608019300231)
     - G. I. Parisi, R. Kemker, J. L. Part , C. Kanan, S. Wermter. Neural Network, 2019.
-6. End-to-End Incremental Learning. [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Francisco_M._Castro_End-to-End_Incremental_Learning_ECCV_2018_paper.pdf)
+6. End-to-End Incremental Learning. [[pdf]]
+(http://openaccess.thecvf.com/content_ECCV_2018/papers/Francisco_M._Castro_End-to-End_Incremental_Learning_ECCV_2018_paper.pdf)
      - Francisco M. Castro, Manuel J. Mar´ın-Jimenez, Nicolas Guil, Cordelia Schmid3, and Karteek Alahari3
 
 7.Gradient Episodic Memory for Continual Learning [[pdf]](http://papers.nips.cc/paper/7225-gradient-episodic-memory-for-continual-learning.pdf)
