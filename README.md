@@ -1,5 +1,6 @@
 # paper-list
-
+## CVPR 2019
+1.Generating Classification Weights with GNN Denoising Autoencoders for Few-Shot Learning[[pdf]](https://arxiv.org/pdf/1905.01102.pdf)
 ## Embedding and Metric Learning Approaches:
 1. Siamese neural networks for one-shot image recognition 
     * G. Koch, R. Zemel, and R. Salakhutdinov. In ICML Workshop, 2015.
